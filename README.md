@@ -55,3 +55,4 @@
 -Improved problem-solving skills by implementing quiz logic and handling different user scenarios.
 
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/4f632550-14b8-4778-b75b-62deb4dbc9fa" />
